@@ -10,17 +10,12 @@
 
 
 
-
-
-
-
-
 def new_hash
   hash = {}
 end
 
 def my_hash
-  { coding_school: "Flatiron" }
+  { "coding_school" => "Flatiron" }
 end
 
 def pioneer
